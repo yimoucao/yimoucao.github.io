@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yumc.xyz/about/</loc>
+    <lastmod>2019-12-27T18:48:43-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yumc.xyz/</loc>
+    <lastmod>2019-12-27T18:48:43-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yumc.xyz/2019/12/hello/</loc>
+    <lastmod>2019-12-27T18:30:26-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yumc.xyz/tags/helloworld/</loc>
+    <lastmod>2019-12-27T18:30:26-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yumc.xyz/posts/</loc>
+    <lastmod>2019-12-27T18:30:26-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yumc.xyz/tags/</loc>
+    <lastmod>2019-12-27T18:30:26-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://yumc.xyz/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -10,18 +52,6 @@
   
   <url>
     <loc>https://yumc.xyz/series/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yumc.xyz/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yumc.xyz/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

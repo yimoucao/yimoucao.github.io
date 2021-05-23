@@ -38,7 +38,7 @@ Me Was facinated by Python. Daily job involves Golang, JavaScript.</description>
       <description>Hello World!
 Environment My previous blog platform: WordPress on BandWagon Host
  high maintainance cost: php, sqldb, virtual host vps is not free, though cheap  Current: Hugo + Github
- free! Golang is promising. I&amp;rsquo;m learning it by doing it  hugo new site [path] git clone [any hugo theme] hugo new posts/any.md hugo serve -D Deploy Using git submodle to make built files pointed to a different origin</description>
+ free! Golang is promising. I&amp;rsquo;m learning it by doing it  hugo new site [path] git clone [any hugo theme] hugo new posts/any.md hugo serve -D Deploy Using Github Actions</description>
     </item>
     
     

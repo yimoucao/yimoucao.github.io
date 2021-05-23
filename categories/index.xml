@@ -1,35 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ycao blog</title>
-    <link>https://yumc.xyz/categories/</link>
-    <description>Recent content in Categories on ycao blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-        <atom:link href="https://yumc.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://yumc.xyz/about/</link>
-      <pubDate>Fri, 27 Dec 2019 18:48:43 -0800</pubDate>
-      
-      <guid>https://yumc.xyz/about/</guid>
-      <description>About All contents are under CC BY 4.0. Details can be found through the link at the ending of each post.
-Me Was facinated by Python. Daily job involves Golang, JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://yumc.xyz/2019/12/hello/</link>
-      <pubDate>Fri, 27 Dec 2019 18:30:26 -0800</pubDate>
-      
-      <guid>https://yumc.xyz/2019/12/hello/</guid>
-      <description>Hello World!
-Environment My previous blog platform: WordPress on BandWagon Host
- high maintainance cost: php, sqldb, virtual host vps is not free, though cheap  Current: Hugo + Github
- free! Golang is promising. I&#39;m learning it by doing it  hugo new site [path] git clone [any hugo theme] hugo new posts/any.md hugo serve -D Deploy Using git submodle to make built files pointed to a different origin</description>
-    </item>
-    
+    <title>Categories on Yimou Cao</title>
+    <link>https://yimoucao.github.io/categories/</link>
+    <description>Recent content in Categories on Yimou Cao</description>
+    <image>
+      <url>https://yimoucao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yimoucao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yimoucao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

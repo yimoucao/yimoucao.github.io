@@ -1,35 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ycao blog</title>
-    <link>https://yumc.xyz/posts/</link>
-    <description>Recent content in Posts on ycao blog</description>
+    <title>Posts on Yimou Cao</title>
+    <link>https://yimoucao.github.io/posts/</link>
+    <description>Recent content in Posts on Yimou Cao</description>
+    <image>
+      <url>https://yimoucao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yimoucao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Dec 2019 18:30:26 -0800</lastBuildDate>
-    
-        <atom:link href="https://yumc.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Apr 2020 18:30:26 -0800</lastBuildDate><atom:link href="https://yimoucao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://yumc.xyz/about/</link>
-      <pubDate>Fri, 27 Dec 2019 18:48:43 -0800</pubDate>
+      <title>Nextjs Quick Start Walkthrough</title>
+      <link>https://yimoucao.github.io/posts/nextjs_walkthrough/</link>
+      <pubDate>Thu, 30 Apr 2020 18:30:26 -0800</pubDate>
       
-      <guid>https://yumc.xyz/about/</guid>
-      <description>About All contents are under CC BY 4.0. Details can be found through the link at the ending of each post.
-Me Was facinated by Python. Daily job involves Golang, JavaScript.</description>
+      <guid>https://yimoucao.github.io/posts/nextjs_walkthrough/</guid>
+      <description>mkdir hello-next cd hello-next git init npm init npm install --save react react-dom next mkdir pages &amp;#34;scripts&amp;#34;: { &amp;#34;dev&amp;#34;: &amp;#34;next&amp;#34;, &amp;#34;build&amp;#34;: &amp;#34;next build&amp;#34;, &amp;#34;start&amp;#34;: &amp;#34;next start } npm run dev /pages /api /public .next/ npm run build npm run start # start built server </description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://yumc.xyz/2019/12/hello/</link>
+      <link>https://yimoucao.github.io/posts/hello/</link>
       <pubDate>Fri, 27 Dec 2019 18:30:26 -0800</pubDate>
       
-      <guid>https://yumc.xyz/2019/12/hello/</guid>
+      <guid>https://yimoucao.github.io/posts/hello/</guid>
       <description>Hello World!
 Environment My previous blog platform: WordPress on BandWagon Host
  high maintainance cost: php, sqldb, virtual host vps is not free, though cheap  Current: Hugo + Github
- free! Golang is promising. I&#39;m learning it by doing it  hugo new site [path] git clone [any hugo theme] hugo new posts/any.md hugo serve -D Deploy Using git submodle to make built files pointed to a different origin</description>
+ free! Golang is promising. I&amp;rsquo;m learning it by doing it  hugo new site [path] git clone [any hugo theme] hugo new posts/any.md hugo serve -D Deploy Using git submodle to make built files pointed to a different origin</description>
     </item>
     
   </channel>
